@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Shahroz Sarfraz!
 
-<!--
-**Shahroz-IBIT-PU/Shahroz-IBIT-PU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 QA Engineer | Automation Enthusiast | Passionate About Creating Bug-Free Software 
 
-Here are some ideas to get you started:
+🌟 **About Me**:
+- 🚀 I specialize in manual and automation testing (REST APIs, UI, Mobile, Web Applications).
+- 🎓 Bachelor’s in Computer Science 
+- 🔍 Currently exploring XCUITest and Espresso frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact Me**:
+- 📧 Email: f18ba135@ibitpu.edu.pk
+- 💼 LinkedIn: https://www.linkedin.com/in/shahrozibitpu/
+
+📂 **My Projects**:
+- **🚀 [Volksbank Digital Solutions ]:
+- # Cypress Automation Script for BWA Files
+
+🛠 **Tech Stack**: TypeScript, Cypress, AWS Textract, POM Framework
+
+## Features:
+- ✅ Automates processing of 200+ files.
+- 📊 Validates calculations dynamically using AWS callback functions.
+- 📄 Structured logging and detailed error reporting.
