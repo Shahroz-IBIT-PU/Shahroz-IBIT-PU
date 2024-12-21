@@ -9,7 +9,7 @@
 
 📫 **Contact Me**:
 - 📧 Email: f18ba135@ibitpu.edu.pk
-- 💼 LinkedIn: https://www.linkedin.com/in/shahrozibitpu/
+
 
 📂 **My Projects**:
 - **🚀 [Volksbank Digital Solutions ]
